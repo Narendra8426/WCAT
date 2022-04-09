@@ -6,3 +6,4 @@ var a=6;
 var b= 12;
 console.log(a+b);
 console.log("i am going rock it");
+console.log("this is my second commit");
